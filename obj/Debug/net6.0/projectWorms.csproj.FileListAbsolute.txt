@@ -1,0 +1,15 @@
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\bin\Debug\net6.0\projectWorms.exe
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\bin\Debug\net6.0\projectWorms.deps.json
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\bin\Debug\net6.0\projectWorms.runtimeconfig.json
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\bin\Debug\net6.0\projectWorms.dll
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\bin\Debug\net6.0\projectWorms.pdb
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.csproj.AssemblyReference.cache
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.AssemblyInfoInputs.cache
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.AssemblyInfo.cs
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.csproj.CoreCompileInputs.cache
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.dll
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\refint\projectWorms.dll
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.pdb
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\projectWorms.genruntimeconfig.cache
+C:\Users\neido\Desktop\Visual Studio\projectWorms\projectWorms\obj\Debug\net6.0\ref\projectWorms.dll
